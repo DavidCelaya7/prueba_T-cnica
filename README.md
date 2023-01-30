@@ -1,7 +1,7 @@
-#:blue_book: prueba_Tecnica :blue_book:
+ :blue_book:  # prueba_Tecnica :blue_book:
 
 
-:warning:  Bases de datos and API  :warning:
+:warning:  ## Bases de datos and API  :warning:
 
 Este repositorio consta de dos parte:
 
@@ -10,9 +10,9 @@ prueba_tecnica :arrow_right: Referente a subir archivo a mysql, extraccion de un
 
 2. :recycle:
 
-:arrow_right: Gauss.py --> Se refiere a la creación de la clase para extraer un número de los 100 números naturales y encontrar el faltante.
-:arrow_right: API.py --> Es un programa ejecutable con un pequeño menú que se ejecuta en la consola, en este el usuario puede interactuar.
-:arrow_right: main.py --> Creacion de una API sencilla, donde el usuario ingresa el numero a encontrar mediante la barra de URL.
+Gauss.py :arrow_right: Se refiere a la creación de la clase para extraer un número de los 100 números naturales y encontrar el faltante.
+API.py  :arrow_right:  Es un programa ejecutable con un pequeño menú que se ejecuta en la consola, en este el usuario puede interactuar.
+main.py :arrow_right:  Creacion de una API sencilla, donde el usuario ingresa el numero a encontrar mediante la barra de URL.
 
 
 
