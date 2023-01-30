@@ -3,7 +3,7 @@
 
  ## Bases de datos and API  :warning:
 
-Este repositorio consta de dos parte:
+Este repositorio consta de dos partes:
 
 1. :recycle: 
 - prueba_tecnica.py :arrow_right: Referente a subir archivo a mysql, extraccion de un archivo .csv con python, filtrado de variables y creación de dos tablas extras con los datos filtrado.
